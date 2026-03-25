@@ -1,4 +1,4 @@
-name: 上班打卡提醒
+name: 抽烟时间提醒
 
 on:
   schedule:
